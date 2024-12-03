@@ -14,7 +14,9 @@ This Python script analyzes web server logs to extract useful insights:
 - `log_analysis.py`: Main script for log analysis.
 - `sample.log`: Sample log file used for testing.
 
+- 
 ## How to Run
+
 1. Clone this repository:
    ```bash
-  git clone https://github.com/Amanc77/log-analysis.git
+   git clone https://github.com/Amanc77/log-analysis.git
